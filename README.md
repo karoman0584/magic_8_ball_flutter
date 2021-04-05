@@ -1,5 +1,5 @@
 # Magic 8 ball flutter
-Magic 8 Ball flutter project
+Magic 8 Ball flutter project using Android Studio
 
 
 ## What you will create
